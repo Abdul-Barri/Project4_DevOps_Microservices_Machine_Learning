@@ -1,1 +1,5 @@
 <paste log output from Kubernetes-mediated prediction, here>
+
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
